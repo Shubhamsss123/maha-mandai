@@ -1,0 +1,14 @@
+node_modules/
+.pnpm-store/
+.next/
+coverage/
+.env
+.env.local
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.venv/
+apps/backend/.venv/
+apps/backend/alembic/versions/*.pyc
+.DS_Store
